@@ -1,0 +1,515 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-msys
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+ 
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Fri Aug 26 12:25:00 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+ 
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# makefile (from '../../../makedefs', line 116)
+AR = ${PREFIX}-ar
+# environment
+USERPROFILE = C:\Users\ashle
+# environment
+MKL_SERIAL = YES
+# environment
+LOCALAPPDATA = C:\Users\ashle\AppData\Local
+# makefile (from 'Makefile', line 44)
+VPATH = ../drivers ../../../utils
+# environment
+VSCODE_CWD = C:\Users\ashle\AppData\Local\Programs\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\
+# makefile (from 'Makefile', line 77)
+SCATTERgcc_project0 = project0.ld
+# makefile (from 'Makefile', line 50)
+IPATH = .. ../../..
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16924_UEGOYBGJGJEAGIZP
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+SW_SIM_HYDRA = C:\Program Files\Common Files\SolidWorks Shared\Simulation Worker Agent\
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# makefile (from 'Makefile', line 78)
+ENTRY_project0 = ResetISR
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\ashle\AppData\Roaming\Code\CachedData\e4503b30fc78200f846c62cf8091b76ff5547662
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /c/Users/ashle/AppData/Local/Temp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# environment
+MINGW = C:\Users\ashle\Downloads\msys2-x86_64-20220118.exe
+# environment
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# environment
+ONEDRIVE = C:\Users\ashle\OneDrive
+# makefile
+CURDIR := /c/Users/ashle/tiva-c/boards/ek-tm4c123gxl/project0
+# makefile (from '../../../makedefs', line 141)
+LIBM := c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libm.a
+# makefile (from '../../../makedefs', line 136)
+LIBC := c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/softfp/libc.a
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+!C: = c:\Users\ashle\tiva-c\boards\ek-tm4c123gxl\project0
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from '../../../makedefs', line 1)
+MAKEFILE_LIST := Makefile ../../../makedefs
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 16924
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+ONLINESERVICES = Online Services
+# automatic
+*F = $(notdir $*)
+# environment
+SW_SIM_TEMP = C:\ProgramData\SOLIDWORKS\SW_net_sim_temp\
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"es-419","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVECONSUMER = C:\Users\ashle\OneDrive
+# default
+MAKE_HOST := x86_64-pc-msys
+# makefile (from '../../../makedefs', line 55)
+COMPILER = gcc
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := /bin/sh
+# environment
+HOMEPATH = \Users\ashle
+# default
+MAKECMDGOALS := all
+# makefile (from 'Makefile', line 79)
+CFLAGSgcc = -DTARGET_IS_TM4C123_RB1
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64_win/compiler:/c/windows/system32:/c/windows:/c/windows/System32/Wbem:/c/windows/System32/WindowsPowerShell/v1.0:/c/windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files (x86)/MiKTeX 2.9/miktex/bin:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/PROGRA~2/PICC:/c/Program Files/Polyspace/R2019a/runtime/win64:/c/Program Files/Polyspace/R2019a/bin:/c/Program Files/Polyspace/R2019a/polyspace/bin:/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/DTS/Binn:/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit:/usr/bin:/mingw64/bin:/c/ProgramData/chocolatey/bin:/c/ProgramData/chocolatey/lib/openocd/tools/OpenOCD-20211118-0.11.0/bin:/c/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin:/c/Users/ashle/AppData/Local/Microsoft/WindowsApps:/c/Program Files (x86)/miktex2.9/miktex/bin/x64:/c/Users/ashle/AppData/Local/Programs/Microsoft VS Code/bin
+# environment
+COMPUTERNAME = LAPTOP-JC4FQ1DU
+# default
+MAKEFILES := 
+# environment
+KMP_DUPLICATE_LIB_OK = TRUE
+# automatic
+^F = $(notdir $^)
+# environment
+SW_SIM_MPIT = INTELMPI
+# makefile (from '../../../makedefs', line 88)
+FPU = -mfpu=fpv4-sp-d16 -mfloat-abi=softfp
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 133056135924452942
+# makefile (from 'Makefile', line 28)
+PART = TM4C123GH6PM
+# makefile (from '../../../makedefs', line 47)
+ 
+os := MSYS_NT-10.0-19044
+# makefile (from 'Makefile', line 33)
+ROOT = ../../..
+# makefile (from '../../../makedefs', line 167)
+AFLAGS = -mthumb ${CPU} ${FPU} -MD ${patsubst %,-I%,${subst :, ,${IPATH}}}
+# makefile (from '../../../makedefs', line 69)
+PREFIX := arm-none-eabi
+# environment
+LOGONSERVER = \\LAPTOP-JC4FQ1DU
+# makefile (from '../../../makedefs', line 131)
+LIBGCC := c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/softfp/libgcc.a
+# environment
+USERNAME = ashle
+# makefile (from '../../../makedefs', line 87)
+CPU = -mcpu=cortex-m4
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# makefile (from '../../../makedefs', line 82)
+ARMGCC_ROOT := /c/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/..
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = LAPTOP-JC4FQ1DU
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+__COMPAT_LAYER = Installer
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.3
+# 'override' directive
+.SHELLSTATUS := 0
+# environment
+PLATFORMCODE = KV
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# makefile (from '../../../makedefs', line 126)
+LDFLAGS = --gc-sections
+# environment
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-JC4FQ1DU
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\ashle\AppData\Roaming
+# makefile (from '../../../makedefs', line 168)
+CFLAGS = -mthumb ${CPU} ${FPU} -ffunction-sections -fdata-sections -MD -std=c99 -Wall -pedantic -DPART_${PART} -c -Os ${CFLAGSgcc} ${patsubst %,-I%,${subst :, ,${IPATH}}}
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/ashle
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /c/Users/ashle/AppData/Local/Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\06d0dc1aee855502b96bfcb62479c627-1.70.2-main-sock
+# environment
+TERM = xterm-256color
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# makefile (from '../../../makedefs', line 121)
+LD = ${PREFIX}-ld
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\intel64_win_mic
+# environment
+PROCESSOR_REVISION = 9e0a
+# environment
+REGIONCODE = LA
+# makefile (from '../../../makedefs', line 75)
+CC = ${PREFIX}-gcc
+# makefile (from '../../../makedefs', line 146)
+OBJCOPY = ${PREFIX}-objcopy
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+# variable set hash-table stats:
+ 
+# Load=129/1024=13%, Rehash=0, Collisions=33/267=12%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# ../drivers (device 1214350674, inode 562949955413815): 6 files, no impossibilities.
+# gcc (device 1214350674, inode 562949955414060): 4 files, no impossibilities.
+# . (device 1214350674, inode 562949955414042): 22 files, no impossibilities.
+# ../../../utils/gcc: could not be stat'd.
+# ../drivers/gcc: could not be stat'd.
+# ../../../utils (device 1214350674, inode 562949955420154): 48 files, no impossibilities.
+
+# 80 files, no impossibilities in 6 directories.
+
+# Implicit Rules
+
+ 
+gcc/%.o: %.c
+#  recipe to execute (from '../../../makedefs', line 174):
+	@if [ 'x${VERBOSE}' = x ];                            \
+	 then                                                 \
+	     echo "  CC    ${<}";                             \
+	 else                                                 \
+	     echo ${CC} ${CFLAGS} -D${COMPILER} -o ${@} ${<}; \
+	 fi
+	@${CC} ${CFLAGS} -D${COMPILER} -o ${@} ${<}
+
+gcc/%.o: %.S
+#  recipe to execute (from '../../../makedefs', line 192):
+	@if [ 'x${VERBOSE}' = x ];                               \
+	 then                                                    \
+	     echo "  AS    ${<}";                                \
+	 else                                                    \
+	     echo ${CC} ${AFLAGS} -D${COMPILER} -o ${@} -c ${<}; \
+	 fi
+	@${CC} ${AFLAGS} -D${COMPILER} -o ${@} -c ${<}
+
+gcc/%.a:
+#  recipe to execute (from '../../../makedefs', line 210):
+	@if [ 'x${VERBOSE}' = x ];     \
+	 then                          \
+	     echo "  AR    ${@}";      \
+	 else                          \
+	     echo ${AR} -cr ${@} ${^}; \
+	 fi
+	@${AR} -cr ${@} ${^}
+
+gcc/%.axf:
+#  recipe to execute (from '../../../makedefs', line 222):
+	@if [ 'x${SCATTERgcc_${notdir ${@:.axf=}}}' = x ];                    \
+	 then                                                                 \
+	     ldname="${ROOT}/gcc/standalone.ld";                              \
+	 else                                                                 \
+	     ldname="${SCATTERgcc_${notdir ${@:.axf=}}}";                     \
+	 fi;                                                                  \
+	 if [ 'x${VERBOSE}' = x ];                                            \
+	 then                                                                 \
+	     echo "  LD    ${@} ${LNK_SCP}";                                  \
+	 else                                                                 \
+	     echo ${LD} -T $${ldname}                                         \
+	          --entry ${ENTRY_${notdir ${@:.axf=}}}                       \
+	          ${LDFLAGSgcc_${notdir ${@:.axf=}}}                          \
+	          ${LDFLAGS} -o ${@} $(filter %.o %.a, ${^})                  \
+	          '${LIBM}' '${LIBC}' '${LIBGCC}';                            \
+	 fi;                                                                  \
+	${LD} -T $${ldname}                                                   \
+	      --entry ${ENTRY_${notdir ${@:.axf=}}}                           \
+	      ${LDFLAGSgcc_${notdir ${@:.axf=}}}                              \
+	      ${LDFLAGS} -o ${@} $(filter %.o %.a, ${^})                      \
+	      '${LIBM}' '${LIBC}' '${LIBGCC}'
+	@${OBJCOPY} -O binary ${@} ${@:.axf=.bin}
+
+# 4 implicit rules, 0 (0.0%) terminal.
+# Files
+
+# Not a target:
+project0.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-08-25 22:36:25.0243818
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+../../../makedefs:
+#  Implicit rule search has been done.
+#  Last modified 2022-08-25 22:37:26.922974
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-08-25 22:36:24.7872552
+#  File has been updated.
+#  Successfully updated.
+
+gcc/project0.axf: gcc/project0.o gcc/startup_gcc.o ../../../driverlib/gcc/libdriver.a project0.ld
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'project0'
+#  Last modified 2022-08-25 22:36:25.0014242
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/22=0%
+#  recipe to execute (from '../../../makedefs', line 222):
+	@if [ 'x${SCATTERgcc_${notdir ${@:.axf=}}}' = x ];                    \
+	 then                                                                 \
+	     ldname="${ROOT}/gcc/standalone.ld";                              \
+	 else                                                                 \
+	     ldname="${SCATTERgcc_${notdir ${@:.axf=}}}";                     \
+	 fi;                                                                  \
+	 if [ 'x${VERBOSE}' = x ];                                            \
+	 then                                                                 \
+	     echo "  LD    ${@} ${LNK_SCP}";                                  \
+ 
+	 else                                                                 \
+	     echo ${LD} -T $${ldname}                                         \
+	          --entry ${ENTRY_${notdir ${@:.axf=}}}                       \
+	          ${LDFLAGSgcc_${notdir ${@:.axf=}}}                          \
+	          ${LDFLAGS} -o ${@} $(filter %.o %.a, ${^})                  \
+	          '${LIBM}' '${LIBC}' '${LIBGCC}';                            \
+	 fi;                                                                  \
+	${LD} -T $${ldname}                                                   \
+	      --entry ${ENTRY_${notdir ${@:.axf=}}}                           \
+	      ${LDFLAGSgcc_${notdir ${@:.axf=}}}                              \
+	      ${LDFLAGS} -o ${@} $(filter %.o %.a, ${^})                      \
+	      '${LIBM}' '${LIBC}' '${LIBGCC}'
+	@${OBJCOPY} -O binary ${@} ${@:.axf=.bin}
+
+# Not a target:
+project0.ld:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 62):
+	@rm -rf ${COMPILER} ${wildcard *~}
+
+# Not a target:
+gcc/startup_gcc.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+../../../driverlib/gcc/libdriver.a:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: gcc gcc/project0.axf
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/22=0%
+
+gcc:
+#  Implicit rule search has not been done.
+#  Last modified 2022-08-25 22:36:25.0153136
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 68):
+	@mkdir -p ${COMPILER}
+
+# Not a target:
+__dummy__:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+gcc/project0.o: project0.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'project0'
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := gcc/project0.o
+# automatic
+# * := project0
+# automatic
+# < := project0.c
+# automatic
+# + := project0.c
+# automatic
+# % := 
+# automatic
+# ^ := project0.c
+# automatic
+# ? := project0.c
+# automatic
+ 
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=15/35=43%
+#  recipe to execute (from '../../../makedefs', line 174):
+	@if [ 'x${VERBOSE}' = x ];                            \
+	 then                                                 \
+	     echo "  CC    ${<}";                             \
+	 else                                                 \
+	     echo ${CC} ${CFLAGS} -D${COMPILER} -o ${@} ${<}; \
+	 fi
+	@${CC} ${CFLAGS} -D${COMPILER} -o ${@} ${<}
+
+# files hash-table stats:
+# Load=14/1024=1%, Rehash=0, Collisions=0/49=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# General ('VPATH' variable) search path:
+# ../drivers:../../../utils
+
+# strcache buffers: 1 (0) / strings = 96 / storage = 1020 B / avg = 10 B
+# current buf: size = 8162 B / used = 1020 B / count = 96 / avg = 10 B
+
+# strcache performance: lookups = 132 / hit rate = 27%
+# hash-table stats:
+# Load=96/8192=1%, Rehash=0, Collisions=0/132=0%
+# Finished Make data base on Fri Aug 26 12:25:00 2022
+
+ 
